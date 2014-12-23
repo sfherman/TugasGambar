@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TugasGambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_iga">TugasGambar</string>
+    <string name="title_activity_jambu">TugasGambar</string>
+    <string name="title_activity_jam">TugasGambar</string>
+    <string name="title_activity_kambing">TugasGambar</string>
+    <string name="title_activity_kupas">TebakGambar</string>
+    <string name="title_activity_mari">TugasGambar</string>
+    <string name="title_activity_mata">TugasGambar</string>
+    <string name="title_activity_mati">TugasGambar</string>
+    <string name="title_activity_obat">TugasGambar</string>
+    <string name="title_activity_end">TugasGambar</string>
+
+</resources>
